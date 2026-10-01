@@ -2,7 +2,7 @@ name: Golfbevakning
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # var 10:e minut (ändra till */30 om repot är privat)
+    - cron: "*/5 * * * *"   # var 10:e minut (ändra till */30 om repot är privat)
   workflow_dispatch:          # gör att du kan köra manuellt
 
 permissions:
