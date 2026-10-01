@@ -2,8 +2,8 @@
   "searches": [
     {
       "date": "2026-10-04",
-      "from": "14:00",
-      "to": "15:00",
+      "from": "15:00",
+      "to": "15:30",
       "players": 4,
       "courses": "all"
     }
