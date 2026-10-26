@@ -26,7 +26,7 @@ COURSES = {
     "Waxholm 18": "410fdd67-a108-4b3f-8058-1ff66fc061c2",
 }
 
-BLOCKED_WORDS = ("tävling", "tournament", "competition")
+BLOCKED_WORDS = ("tävling", "tournament", "competition", "gruppbokning")
 
 
 def fetch_course(uuid, start_local, end_local, players):
